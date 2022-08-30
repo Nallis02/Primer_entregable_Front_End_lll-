@@ -9,10 +9,10 @@
 //    button       (este boton debe permitir comprar, pero si la cantidad es menor a 0 debe estar deshabilitado y decir "Sin stock")
 import styles from "../styles/span.module.css";
 import { useEffect, useState } from "react";
-export default function Item({ nombre, descripcion, stock, handleAdd }) {
+export default function Item({ nombre, descripcion, stock, handleAdd}) {
   const [inventario, setInventario] = useState(stock);
   useEffect(() => {
-    console.log("Reloj montado");
+    console.log("componente montado");
   }, []);
   useEffect(() => {
     setInventario(stock);

@@ -1,5 +1,5 @@
 # simulador de carrito de compras 
-
+Este proyecto esta realizado en React
 
 # Guia para su funcionamiento
 
@@ -15,4 +15,4 @@ Aquí pueden ver una demo del funcionamiento de la aplicación.
 
 ![gif-entregable_1_front_III.gif](https://raw.githubusercontent.com/Nallis02/Primer_entregable_Front_End_lll-/main/gif-entregable_1_front_III.gif)
 
-# Primer_entregable_Front-_End-_lll# Primer_entregable_Front_End_lll-
+# Primer_entregable_Front-_End-_lll
